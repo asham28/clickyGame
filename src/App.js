@@ -51,7 +51,7 @@ handleIncrement = () => {
     currentScore: newScore, 
     rightWrong: ""
   }); 
-  if (newScore >=this.state.topScore){
+  if (newScore >= 12){
     this.setState({rightWrong: "You win!"}); 
   }
   this.handleShuffle(); 
