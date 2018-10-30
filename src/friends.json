@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1, 
+        "name": "Sokka",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/cc/Sokka.png"
+    },
+    {
+        "id": 2, 
+        "name": "Toph",
+        "image": "https://myswordisunbelievablydull.files.wordpress.com/2011/04/toph_ep26.png"
+    },
+    {
+        "id": 3, 
+        "name": "Zuko", 
+        "image": "https://mbtskoudsalg.com/images/avatar-zuko-png-6.png"
+    },
+    {
+        "id": 4, 
+        "name": "Katara",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Katara.png"
+    },
+    {
+        "id": 5, 
+        "name": "Aang",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Avatar_Aang.png"
+    },
+    {
+        "id": 6, 
+        "name": "Iroh",
+        "image": "https://mbtskoudsalg.com/images/zuko-drawing-iroh-3.png"
+    },
+    {
+        "id": 7, 
+        "name": "Azula",
+        "image": "https://mbtskoudsalg.com/images/avatar-the-last-airbender-characters-png-3.png"
+    },
+    {
+        "id": 8, 
+        "name": "Momo",
+        "image": "https://i0.wp.com/i1084.photobucket.com/albums/j409/SE_Wong/Avatar%20The%20Last%20Airbender/Momo.png"
+    },
+    {
+        "id": 9, 
+        "name": "Korra",
+        "image": "https://static.comicvine.com/uploads/original/11127/111278584/5101464-4211510533-wip_k.png"
+    },
+    {
+        "id": 10, 
+        "name": "Ozai",
+        "image": "https://orig00.deviantart.net/5008/f/2013/188/5/e/ozai_by_freestarisis-d6cgfsl.png"
+    },
+    {
+        "id": 11, 
+        "name": "Avatar Kyoshi",
+        "image": "https://img00.deviantart.net/49ee/i/2016/272/1/4/avatar_kyoshi_2016_by_perrywhite-daj9fsp.png"
+    },
+    {
+        "id": 12, 
+        "name": "Ty Lee",
+        "image": "http://i61.tinypic.com/mttu76.png"
+    }
+]

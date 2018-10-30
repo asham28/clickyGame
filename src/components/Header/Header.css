@@ -1,0 +1,24 @@
+ .headerContainer {
+     background-color: #5133A4;
+     height: auto;
+     width: 100%;
+     font-size: 1.5rem;
+     color: white;
+ }
+
+ nav li {
+     float: left;
+     padding: 2px;
+     width: 100%;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+ ul {
+     list-style-type: none;
+     text-align: center;
+     margin: 0px;
+     padding: 0px;
+     width: 90%;
+     overflow: hidden;
+ }

@@ -1,0 +1,7 @@
+.cardContainer {
+    display: flex; 
+    background-color: bisque;
+    height: 50vh;
+    font-family: cursive;
+    font-size: 22px;
+}
