@@ -25,7 +25,7 @@ class App extends Component {
 state = {
   friends, 
   currentScore: 0, 
-  topScore: 0, 
+  topScore: 12, 
   rightWrong: "", 
   clicked: [], 
 }; 
@@ -51,7 +51,7 @@ handleIncrement = () => {
     currentScore: newScore, 
     rightWrong: ""
   }); 
-  if (newScore >= 12){
+  if (newScore >=this.state.topScore){
     this.setState({rightWrong: "You win!"}); 
   }
   this.handleShuffle(); 
@@ -78,7 +78,6 @@ handleReset = () => {
         <Header
         title="Avatar: The Last Airbender Clicky Game"
         score={this.state.currentScore}
-        topScore={this.state.topScore}
         rightWrong={this.state.rightWrong}
         
         />

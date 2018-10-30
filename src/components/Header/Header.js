@@ -7,7 +7,6 @@ const Header = props => (
       <li>{props.title}</li>
       <li>{props.rightWrong}</li>
       <li>Current Score: {props.score}</li>
-      <li>Top Score: {props.topScore}</li>
     </ul>
   </nav>
 );
